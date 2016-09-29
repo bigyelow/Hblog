@@ -30,9 +30,8 @@ plist 文件中将 $(PRODUCT_BUNDLE_IDENTIFIER) 替换为 $(APP_BUNDLE_IDENTIFIE
 ###关于 code sign
 这是一个老生常谈也是一个无数文章说过的问题了，其实如果理解了本质就不需要看那么多文章。理解这个问题需要理解证书、签名、沙盒、授权（Entitlements）、Provisioning profile 之间的关系及作用。在此推荐两篇文章，看懂了这两篇文章你就知道每当 code sign 出问题时应该怎么解决了。
 
-[https://www.objc.io/issues/17-security/inside-code-signing/](https://www.objc.io/issues/17-security/inside-code-signing/)
-
-[http://pewpewthespells.com/blog/migrating_code_signing.html](http://pewpewthespells.com/blog/migrating_code_signing.html)
+* [https://www.objc.io/issues/17-security/inside-code-signing/](https://www.objc.io/issues/17-security/inside-code-signing/)
+* [http://pewpewthespells.com/blog/migrating_code_signing.html](http://pewpewthespells.com/blog/migrating_code_signing.html)
 
 ###Xcode 8 auto signing
 Xcode 8 引入了 auto signing，好处是真机调试时方便多了；坏处则是之前在 Xcode 7 下正常的打包命令在 Xcode 8 下会报错，具体的错误信息记不清了，意思是 xcodebuild 制定了 code_sign_identity 和 provisioning_profile，但是 Xcode 使用了 auto sign。这时候需要手动修改 **project.pbxproj** 文件：
