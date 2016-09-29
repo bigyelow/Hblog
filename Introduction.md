@@ -8,6 +8,7 @@ iOS developer at [Douban Inc.](https://www.douban.com/)
 
 ####Contact
 duyu1010@gmail.com |
+[豆瓣](https://www.douban.com/people/bigyelow/)
 [linkedin](https://www.linkedin.com/in/%E6%9D%9C%E7%85%9C-%E9%BB%84-50b423b6?trk=nav_responsive_tab_profile_pic) |
 [github](https://github.intra.douban.com/huangduyu) |
 [twitter](https://twitter.com/bigyelow) |
