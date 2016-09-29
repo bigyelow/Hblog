@@ -1,5 +1,5 @@
 ##About me
-iOS developer at [Douban Inc.](https://www.douban.com/) 
+An iOS developer at [Douban Inc.](https://www.douban.com/) 
 
 ####App
 [豆瓣 App iOS](https://itunes.apple.com/cn/app/dou-ban/id907002334?mt=8)
