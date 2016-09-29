@@ -49,7 +49,7 @@ Xcode 8 引入了 auto signing，好处是真机调试时方便多了；坏处�
 
 bitcode 出错。
 
-或者还会遇到下面的问题，也就是 xxx.app 中多了一个 swit 的 dylib
+或者还会遇到下面的问题，也就是 xxx.app 中多了一个 swift 的 dylib
 >ERROR ITMS-90171: "Invalid Bundle Structure - The binary file 'XXX.app/**libswiftRemoteMirror.dylib**' is not permitted. Your app can't contain standalone executables or libraries, other than the CFBundleExecutable of supported bundles. Refer to the Bundle Programming Guide at https://developer.apple.com/go/?id=bundle-structure for information on the iOS app bundle structure."
 
 这时候有两种解决办法：
