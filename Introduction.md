@@ -20,4 +20,4 @@ mail: duyu1010@gmail.com
 ---
 ##Contents
 ###2016
-[Xcode 8 下使用 xcodebuild 打包 App](https://github.intra.douban.com/huangduyu/Hblog/blob/master/2016/Xcode%208%20%E4%B8%8B%E4%BD%BF%E7%94%A8%20xcodebuild%20%E6%89%93%E5%8C%85%20App.md)
+* 09-29 [Xcode 8 下使用 xcodebuild 打包 App](https://github.intra.douban.com/huangduyu/Hblog/blob/master/2016/Xcode%208%20%E4%B8%8B%E4%BD%BF%E7%94%A8%20xcodebuild%20%E6%89%93%E5%8C%85%20App.md)
