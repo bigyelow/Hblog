@@ -1,4 +1,4 @@
-Goto [Introduction](https://github.intra.douban.com/huangduyu/Hblog/blob/master/Introduction.md)
+Goto [Introduction](https://github.com/bigyelow/Hblog/blob/master/Introduction.md)
 
 #Xcode 8 下使用 xcodebuild 打包 App 
 之前我们的项目一直使用 Xcode 7 来打包项目，用 Cocoapods 来管理第三方库。最近我们升级到了 Xcode 8 并且由于**模块化**的需要，需要将部分 Swift 或者 OC+Swift 混编的代码抽出去成为单独的库，所以需要使用 Cocoapods 的 use_frameworks! 特性将包含了 Swift 源文件的库引用进来，这期间遇到了不少问题，在这里梳理下处理的办法以供他人参考。
@@ -103,7 +103,7 @@ bitcode 出错。
 至此，我们又可以愉快的在 Xcode 8 下生活了😜。
 
 ---
-If you have any problems, send me email [duyu1010@gmail.com](duyu1010@gmail.com) or  [open an issue](https://github.intra.douban.com/huangduyu/Hblog/issues/new) please.
+If you have any problems, send me email duyu1010@gmail.com or  [open an issue](https://github.com/bigyelow/Hblog/issues/new) please.
            
 	
 	
