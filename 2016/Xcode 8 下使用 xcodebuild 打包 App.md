@@ -5,6 +5,7 @@ Goto [Introduction](https://github.com/bigyelow/Hblog/blob/master/Introduction.m
 
 > Note: 上述说的打包都是使用 xcodebuild 命令完成的。
 
+
 ##开启 use_frameworks! 后由于第三方库 bundle id 问题导致安装失败
 使用 xcodebuild 生成内测版 ipa 后，在安装的时候失败，查看 device log 有如下报错：
 
