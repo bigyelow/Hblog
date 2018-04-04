@@ -1,3 +1,5 @@
+Goto [Introduction](https://github.com/bigyelow/Hblog/blob/master/Introduction.md)
+
 # rexxar-iOS 分析和优化
 
 项目地址：[rexxar-iOS](https://github.com/bigyelow/rexxar-ios)
@@ -125,3 +127,6 @@ frodo 中处理 404：发生 RXRLogTypeNoLocalHTMLForURI 且加载 `remote url` 
 
 ### 计划：使用 `WKURLSchemeHandler` 替换 `NSURLProtocol`
 - 测试中...
+
+---
+If you have any problems, send me email duyu1010@gmail.com or  [open an issue](https://github.com/bigyelow/Hblog/issues/new) please.
