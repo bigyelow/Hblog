@@ -1,3 +1,5 @@
+Goto [Introduction](https://github.com/bigyelow/Hblog/blob/master/Introduction.md)
+
 # Bugfix for WKWebView Blank Issue
 
 > 该问题是在 豆瓣App iOS 版本（<= 5.22.0）上发现的
@@ -184,3 +186,7 @@ recall:
 3. 对于普通的 RXRVC 还是需要立即 reload，因为并不是所有时候都会调用到 viewWillAppear: ，比如切换 app 且 WKWebView 内存释放后，回来会白屏
 4. FRDWebViewController 和其他的 JYSlide + RXRVC 会有类似的问题
 5. 【书影音 tab】一般到10个左右的 segments 就会开始出现 terminate 回调；而 https://m.douban.com 差不多要到20个左右
+
+
+---
+If you have any problems, send me email duyu1010@gmail.com or  [open an issue](https://github.com/bigyelow/Hblog/issues/new) please.
